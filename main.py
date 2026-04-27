@@ -1,3 +1,3 @@
 import funcion_n
 
-print(suma(1, 2))
+print(funcion_n.suma(1, 2))
