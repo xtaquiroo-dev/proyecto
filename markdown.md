@@ -20,4 +20,4 @@ Markdown es un lenguaje de marcado ligero creado por John Gruber en 2004.
 `print("Hola mundo")`
 
 ---
-*Actividad completada por phanruki*
+*Actividad completada por Yadid Asiel Soto Hernandez*
