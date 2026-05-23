@@ -1,2 +1,2 @@
-print('a')
-print('a')
+def calcular_red(): pass
+error_de_sintaxis
